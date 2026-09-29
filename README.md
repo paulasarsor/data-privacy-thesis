@@ -118,4 +118,4 @@ Released under the MIT License (see `LICENSE`).
 
 ## Author
 
-Paula Sarrión Soriano · [www.linkedin.com/in/paulasarrionsoriano] · [paulasarrionsoriano@gmail.com]
+Paula Sarrión Soriano · www.linkedin.com/in/paulasarrionsoriano · paulasarrionsoriano@gmail.com
