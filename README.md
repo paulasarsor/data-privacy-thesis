@@ -2,7 +2,6 @@
 
 Code for my Bachelor's Thesis (BSc in Mathematics, University of Barcelona, 2026):
 **"Mathematical Framework for Data Privacy: A Comparative Study of Privacy-Preserving Methods"**
-(supervisor: Dr. Nahuel Statuto).
 
 The thesis compares classical syntactic anonymization (k-anonymity, ℓ-diversity, t-closeness)
 with differential privacy (Laplace and Gaussian mechanisms). This repository contains the three
