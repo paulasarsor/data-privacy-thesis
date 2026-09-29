@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+.idea/
+.vscode/
